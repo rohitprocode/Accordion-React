@@ -1,0 +1,23 @@
+.Accordion {
+  background-color: darkgoldenrod;
+  padding: 20px 50px;
+  position: relative;
+  width: 40vw;
+  /* height: 100vh; */
+  padding: 10px;
+  margin: 25px auto;
+}
+
+.container{
+    background-color: gray;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 25px;
+    
+}
+
+.Answer{
+    display: none;
+}
